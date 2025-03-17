@@ -2,4 +2,4 @@
 ctf solution for blockchain challenge 
 
 ### solved challenge:
-- conspiracy to commit bankruptcy(Blockchain , 472 points)
+- `conspiracy to commit bankruptcy` (Blockchain , 472 points)
